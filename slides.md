@@ -1,6 +1,7 @@
 ---
 theme: seriph
 title: Critical Lenses in Literary Studies
+favicon: "Maxfav.png"
 info: |
   A survey of sixteen schools of literary criticism, with guiding questions and MLA sources.
 author: D. Gerber
